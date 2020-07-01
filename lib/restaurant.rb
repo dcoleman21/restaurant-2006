@@ -1,3 +1,4 @@
+
 class Restaurant
   attr_reader :opening_time,
               :name,
